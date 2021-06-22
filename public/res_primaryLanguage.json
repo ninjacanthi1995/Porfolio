@@ -109,9 +109,9 @@
         "startDate": "2021",
         "description": "The website offer us, via several forms, the possibility to add readers, add books and add a book to a reader's favorite.",
         "images": [
-          "images/portfolio/populateLibrary/populateLibrary-1.png",
-          "images/portfolio/populateLibrary/populateLibrary-2.png",
-          "images/portfolio/populateLibrary/populateLibrary-3.png"
+          "images/portfolio/populateLibrary/populateLibrary-1.PNG",
+          "images/portfolio/populateLibrary/populateLibrary-2.PNG",
+          "images/portfolio/populateLibrary/populateLibrary-3.PNG"
         ],
         "url": "http://populatelibrary-env.eba-t8ejqdqr.us-east-2.elasticbeanstalk.com",
         "technologies": [
