@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm HOANG Minh Chau. FULLSTACK JAVASCRIPT WEB DEVELOPER to become. After experiences in the civil engineering industry, I am now moving into the IT development world. Link between my initial training and my future professional: my appetite for technology and the design of new products. I'm now student at Coding Bootcamp La Capsule - Fullstack JavaScript web and mobile development.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,46 +11,88 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Search Band",
+        "startDate": "2021",
+        "description": "By using the MusicBrainz API, the website allow us to find the artist that we want and also displays that artist's releases.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/searchBand/searchBand-1.png",
+          "images/portfolio/searchBand/searchBand-2.png",
+          "images/portfolio/searchBand/searchBand-3.png"
         ],
-        "url": "",
+        "url": "http://node-env.eba-yzm2d2q9.us-east-2.elasticbeanstalk.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "My Back Office",
+        "startDate": "2021",
+        "description": "The Website allow us to set up a Back Office to manage your contact list.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/monBackOffice/monBackOffice-1.png",
+          "images/portfolio/monBackOffice/monBackOffice-2.png",
+          "images/portfolio/monBackOffice/monBackOffice-3.png"
         ],
-        "url": "https://github.com",
+        "url": "http://monbackoffice-env.eba-vxpuvsx5.us-east-2.elasticbeanstalk.com/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
           }
         ]
       },
@@ -81,37 +123,62 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "La Capsule",
+        "title": "Full-stack Javascript Web and Mobile Developement Student",
+        "years": "05.2021 - 08-2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "ReactJS NodeJS MongoDB"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
+          "jQuery",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "Redux",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "Git",
+          "Github",
+          "Responsive Design"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Tractebel Engineering France",
+        "title": "Structural Engineer",
+        "years": "08.2019 - 05.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Engineering Skills"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Modeling",
+          "Technical Documents Writing",
+          "Programming",
+          "Structural Analysis"
+        ]
+      },
+      {
+        "company": "INSA Lyon",
+        "title": "Civil Engineering Student",
+        "years": "2014 - 2019",
+        "mainTech": [
+          "Civil Engineering"
+        ],
+        "technologies": [
+          "Civil Engineering Skills"
+        ]
+      },
+      {
+        "company": "Phan Boi Chau Specialized School",
+        "title": "IT Specialized Class Student",
+        "years": "2012 - 2013",
+        "mainTech": [
+          "High School"
+        ],
+        "technologies": [
+          "3rd Prize in National Olympiad in Informatics for High School Students"
         ]
       }
     ]
