@@ -1,115 +1,217 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Bonjour",
+      "description": "👋 Je suis HOANG Minh Chau. DÉVELOPPEUR WEB FULLSTACK JAVASCRIPT à devenir. Après des expériences dans le génie civil, je m'oriente aujourd'hui vers le monde du développement informatique. Lien entre ma formation initiale et mon futur professionnel : mon appétit pour la technologie et la conception de nouveaux produits. Je suis maintenant étudiant au Coding Bootcamp La Capsule - Fullstack JavaScript web and mobile development 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "À propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Search Band",
+        "startDate": "2021",
+        "description": "En utilisant l'API MusicBrainz, le site Web nous permet de trouver l'artiste que nous voulons et affiche également les sorties de cet artiste.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/searchBand/searchBand-1.PNG",
+          "images/portfolio/searchBand/searchBand-2.PNG",
+          "images/portfolio/searchBand/searchBand-3.PNG"
         ],
-        "url": "",
+        "url": "http://node-env.eba-yzm2d2q9.us-east-2.elasticbeanstalk.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "My Back Office",
+        "startDate": "2021",
+        "description": "Le site Web nous permet de mettre en place un Back Office pour gérer votre liste de contacts.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/monBackOffice/monBackOffice-1.PNG",
+          "images/portfolio/monBackOffice/monBackOffice-2.PNG",
+          "images/portfolio/monBackOffice/monBackOffice-3.PNG"
         ],
-        "url": "https://github.com",
+        "url": "http://monbackoffice-env.eba-vxpuvsx5.us-east-2.elasticbeanstalk.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Populate Library",
+        "startDate": "2021",
+        "description": "Le site internet nous offre, via plusieurs formulaires, la possibilité d'ajouter des lecteurs, d'ajouter des livres et d'ajouter un livre au favori d'un lecteur.",
+        "images": [
+          "images/portfolio/populateLibrary/populateLibrary-1.png",
+          "images/portfolio/populateLibrary/populateLibrary-2.png",
+          "images/portfolio/populateLibrary/populateLibrary-3.png"
+        ],
+        "url": "http://populatelibrary-env.eba-t8ejqdqr.us-east-2.elasticbeanstalk.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "La Capsule",
+        "title": "Etudiante en Développement Web et Mobile Javascript Full-stack",
+        "years": "05.2021 - 08-2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "ReactJS NodeJS MongoDB"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
+          "jQuery",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "React",
+          "Redux",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "Git",
+          "Github",
+          "Responsive Design"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Tractebel Engineering France",
+        "title": "Ingénieur de Structure",
+        "years": "08.2019 - 05.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Compétences en Ingénierie"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Modélisation",
+          "Rédaction de Documents Techniques",
+          "Programmation",
+          "Analyse de Structure"
+        ]
+      },
+      {
+        "company": "INSA Lyon",
+        "title": "Étudiant en Génie Civil",
+        "years": "2014 - 2019",
+        "mainTech": [
+          "Génie Civil"
+        ],
+        "technologies": [
+          "Compétences en Génie Civil"
+        ]
+      },
+      {
+        "company": "École Spécialisée de Phan Boi Chau",
+        "title": "Étudiant en Classe Spécialisée en Informatique",
+        "years": "2012 - 2013",
+        "mainTech": [
+          "Lycée"
+        ],
+        "technologies": [
+          "3e Prix aux Olympiades Nationales d'Informatique pour Lycéens"
         ]
       }
     ]
