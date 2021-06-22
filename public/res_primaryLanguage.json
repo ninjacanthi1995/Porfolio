@@ -15,9 +15,9 @@
         "startDate": "2021",
         "description": "By using the MusicBrainz API, the website allow us to find the artist that we want and also displays that artist's releases.",
         "images": [
-          "images/portfolio/searchBand/searchBand-1.png",
-          "images/portfolio/searchBand/searchBand-2.png",
-          "images/portfolio/searchBand/searchBand-3.png"
+          "images/portfolio/searchBand/searchBand-1.PNG",
+          "images/portfolio/searchBand/searchBand-2.PNG",
+          "images/portfolio/searchBand/searchBand-3.PNG"
         ],
         "url": "http://node-env.eba-yzm2d2q9.us-east-2.elasticbeanstalk.com/",
         "technologies": [
@@ -56,9 +56,9 @@
         "startDate": "2021",
         "description": "The Website allow us to set up a Back Office to manage your contact list.",
         "images": [
-          "images/portfolio/monBackOffice/monBackOffice-1.png",
-          "images/portfolio/monBackOffice/monBackOffice-2.png",
-          "images/portfolio/monBackOffice/monBackOffice-3.png"
+          "images/portfolio/monBackOffice/monBackOffice-1.PNG",
+          "images/portfolio/monBackOffice/monBackOffice-2.PNG",
+          "images/portfolio/monBackOffice/monBackOffice-3.PNG"
         ],
         "url": "http://monbackoffice-env.eba-vxpuvsx5.us-east-2.elasticbeanstalk.com/",
         "technologies": [
