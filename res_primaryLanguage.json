@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm HOANG Minh Chau. FULLSTACK JAVASCRIPT WEB DEVELOPER to become. After experiences in the civil engineering industry, I am now moving into the IT development world. Link between my initial training and my future professional: my appetite for technology and the design of new products. I'm now student at Coding Bootcamp La Capsule - Fullstack JavaScript web and mobile development.",
+      "description": "👋 I'm HOANG Minh Chau. FULLSTACK JAVASCRIPT WEB DEVELOPER to become. After experiences in the civil engineering industry, I am now moving into the IT development world. Link between my initial training and my future professional: my appetite for technology and the design of new products. I'm now student at Coding Bootcamp La Capsule - Fullstack JavaScript web and mobile development. 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -20,6 +20,7 @@
           "images/portfolio/searchBand/searchBand-3.PNG"
         ],
         "url": "http://node-env.eba-yzm2d2q9.us-east-2.elasticbeanstalk.com/",
+        "github": "https://github.com/ninjacanthi1995/searchBand",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -65,6 +66,7 @@
           "images/portfolio/monBackOffice/monBackOffice-3.PNG"
         ],
         "url": "http://monbackoffice-env.eba-vxpuvsx5.us-east-2.elasticbeanstalk.com/",
+        "github": "https://github.com/ninjacanthi1995/monBackOffice",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -114,6 +116,56 @@
           "images/portfolio/populateLibrary/populateLibrary-3.PNG"
         ],
         "url": "http://populatelibrary-env.eba-t8ejqdqr.us-east-2.elasticbeanstalk.com",
+        "github": "https://github.com/ninjacanthi1995/populate-library",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Nested Blog",
+        "startDate": "2021",
+        "description": "The website works like a mini blog with comments management.",
+        "images": [
+          "images/portfolio/nestedBlog/nestedBlog-1.PNG",
+          "images/portfolio/nestedBlog/nestedBlog-2.PNG"
+        ],
+        "url": "http://nestedblog-env.eba-p92pvr5w.us-east-2.elasticbeanstalk.com/",
+        "github": "https://github.com/ninjacanthi1995/nested-blog",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -211,7 +263,7 @@
           "High School"
         ],
         "technologies": [
-          "3rd Prize in National Olympiad in Informatics for High School Students"
+          "3rd Prize", "in National Olympiad in Informatics", "for High School Students"
         ]
       }
     ]
