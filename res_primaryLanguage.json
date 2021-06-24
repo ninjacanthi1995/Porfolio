@@ -204,6 +204,60 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "Weather App",
+        "startDate": "2021",
+        "description": "The web application allows you to display a city's weather forecast on an interactive map.",
+        "images": [
+          "images/portfolio/weatherApp/weatherApp-1.PNG",
+          "images/portfolio/weatherApp/weatherApp-2.PNG",
+          "images/portfolio/weatherApp/weatherApp-3.PNG"
+        ],
+        "url": "http://weather-app-lacapsule.us-east-2.elasticbeanstalk.com",
+        "github": "https://github.com/ninjacanthi1995/weather-app",
+        "technologies": [
+          {
+            "class": "",
+            "name": "API Leaflet"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
     ],
     "experience": [
