@@ -258,6 +258,59 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "Ticetac",
+        "startDate": "2021",
+        "description": "Le site de réservation de billets de trains.",
+        "images": [
+          "images/portfolio/ticetac/ticetac-1.PNG",
+          "images/portfolio/ticetac/ticetac-2.PNG",
+          "images/portfolio/ticetac/ticetac-3.PNG",
+          "images/portfolio/ticetac/ticetac-4.PNG",
+          "images/portfolio/ticetac/ticetac-5.PNG",
+          "images/portfolio/ticetac/ticetac-6.PNG"
+        ],
+        "url": "https://ticetac.herokuapp.com/",
+        "github": "https://github.com/ninjacanthi1995/ticetac",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
     ],
     "experience": [
