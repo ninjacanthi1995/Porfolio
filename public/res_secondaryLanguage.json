@@ -20,6 +20,7 @@
           "images/portfolio/searchBand/searchBand-3.PNG"
         ],
         "url": "http://node-env.eba-yzm2d2q9.us-east-2.elasticbeanstalk.com/",
+        "github": "https://github.com/ninjacanthi1995/searchBand",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -65,6 +66,7 @@
           "images/portfolio/monBackOffice/monBackOffice-3.PNG"
         ],
         "url": "http://monbackoffice-env.eba-vxpuvsx5.us-east-2.elasticbeanstalk.com/",
+        "github": "https://github.com/ninjacanthi1995/monBackOffice",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -114,6 +116,7 @@
           "images/portfolio/populateLibrary/populateLibrary-3.PNG"
         ],
         "url": "http://populatelibrary-env.eba-t8ejqdqr.us-east-2.elasticbeanstalk.com",
+        "github": "https://github.com/ninjacanthi1995/populate-library",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -152,8 +155,205 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "Nested Blog",
+        "startDate": "2021",
+        "description": "Le site fonctionne comme un mini blog avec une gestion des commentaires.",
+        "images": [
+          "images/portfolio/nestedBlog/nestedBlog-1.PNG",
+          "images/portfolio/nestedBlog/nestedBlog-2.PNG"
+        ],
+        "url": "http://nestedblog-env.eba-p92pvr5w.us-east-2.elasticbeanstalk.com/",
+        "github": "https://github.com/ninjacanthi1995/nested-blog",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Weather App",
+        "startDate": "2021",
+        "description": "L'application web permet d'afficher les prévisions météo d'une ville sur une carte interactive.",
+        "images": [
+          "images/portfolio/weatherApp/weatherApp-1.PNG",
+          "images/portfolio/weatherApp/weatherApp-2.PNG",
+          "images/portfolio/weatherApp/weatherApp-3.PNG"
+        ],
+        "url": "http://weather-app-lacapsule.us-east-2.elasticbeanstalk.com",
+        "github": "https://github.com/ninjacanthi1995/weather-app",
+        "technologies": [
+          {
+            "class": "",
+            "name": "API Leaflet"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Ticetac",
+        "startDate": "2021",
+        "description": "Le site de réservation de billets de trains.",
+        "images": [
+          "images/portfolio/ticetac/ticetac-1.PNG",
+          "images/portfolio/ticetac/ticetac-2.PNG",
+          "images/portfolio/ticetac/ticetac-3.PNG",
+          "images/portfolio/ticetac/ticetac-4.PNG",
+          "images/portfolio/ticetac/ticetac-5.PNG",
+          "images/portfolio/ticetac/ticetac-6.PNG"
+        ],
+        "url": "https://ticetac.herokuapp.com/",
+        "github": "https://github.com/ninjacanthi1995/ticetac",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Street Fighter",
+        "startDate": "2021",
+        "description": "Le menu de sélection de vos joueurs sur Street Fighter.",
+        "images": [
+          "images/portfolio/street-fighter/street-fighter-1.PNG",
+          "images/portfolio/street-fighter/street-fighter-2.PNG"
+        ],
+        "url": "https://ninjacanthi1995.github.io/street-fighter/",
+        "github": "https://github.com/ninjacanthi1995/street-fighter",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
-    ],
+    ], 
     "experience": [
       {
         "company": "La Capsule",
@@ -211,7 +411,7 @@
           "Lycée"
         ],
         "technologies": [
-          "3e Prix aux Olympiades Nationales d'Informatique pour Lycéens"
+          "3e Prix", "aux Olympiades Nationales d'Informatique", "pour les Lycéens"
         ]
       }
     ]
