@@ -311,6 +311,47 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "Street Fighter",
+        "startDate": "2021",
+        "description": "The menu for selecting your players on Street Fighter.",
+        "images": [
+          "images/portfolio/street-fighter/street-fighter-1.PNG",
+          "images/portfolio/street-fighter/street-fighter-2.PNG"
+        ],
+        "url": "https://ninjacanthi1995.github.io/street-fighter/",
+        "github": "https://github.com/ninjacanthi1995/street-fighter",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
     ],
     "experience": [
