@@ -39,18 +39,18 @@
           "level": "90"
         },
         {
-          "name": "jQuery",
-          "class": "devicon-jquery-plain",
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
           "level": "85"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
+        },  
         {
           "name": "React",
           "class": "devicon-react-original",
+          "level": "85"
+        },
+        {
+          "name": "Vue.js",
+          "class": "devicon-vuejs-plain",
           "level": "85"
         },
         {
