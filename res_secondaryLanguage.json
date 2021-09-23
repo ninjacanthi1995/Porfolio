@@ -356,6 +356,25 @@
     ], 
     "experience": [
       {
+        "company": "Campus At Work",
+        "title": "Full-stack Javascript Web Développeur",
+        "years": "08.2021 - 02-2022",
+        "mainTech": [
+          "Angular NodeJS MongoDB"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Angular",
+          "NodeJS",
+          "MongoDB",
+          "Git",
+          "Github",
+          "Responsive Design"
+        ]
+      },  
+      {
         "company": "La Capsule",
         "title": "Etudiante en Développement Web et Mobile Javascript Full-stack",
         "years": "05.2021 - 08-2021",
