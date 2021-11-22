@@ -352,6 +352,45 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "Space Tourism",
+        "startDate": "2021",
+        "description": "Frontendmentor défi du multipage space tourism site web",
+        "images": [
+          "images/portfolio/space-tourism/img-1.PNG",
+          "images/portfolio/space-tourism/img-2.PNG",
+          "images/portfolio/space-tourism/img-3.PNG",
+          "images/portfolio/space-tourism/img-4.PNG"
+        ],
+        "url": "https://space-tourism-chou.netlify.app",
+        "github": "https://github.com/ninjacanthi1995/space-tourism",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
     ], 
     "experience": [

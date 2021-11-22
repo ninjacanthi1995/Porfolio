@@ -1,3 +1,3 @@
 My Porfolio Website
 
-Link to the Website: http://ninjacanthi1995.github.io/Porfolio
+Link to the Website: https://portfolio-chou.netlify.app
