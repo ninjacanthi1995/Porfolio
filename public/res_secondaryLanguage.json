@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Bonjour",
-      "description": "👋 Je suis HOANG Minh Chau. DÉVELOPPEUR WEB FULLSTACK JAVASCRIPT à devenir. Après des expériences dans le génie civil, je m'oriente aujourd'hui vers le monde du développement informatique. Lien entre ma formation initiale et mon futur professionnel : mon appétit pour la technologie et la conception de nouveaux produits. Je suis maintenant étudiant au Coding Bootcamp La Capsule - Fullstack JavaScript web and mobile development 💜",
+      "description": "👋 Je suis HOANG Minh Chau. DÉVELOPPEUR WEB FULLSTACK JAVASCRIPT. Après des expériences dans le génie civil, je m'oriente aujourd'hui vers le monde du développement informatique. Lien entre ma formation initiale et mon futur professionnel : mon appétit pour la technologie et la conception de nouveaux produits. Je suis maintenant développeur à Campus At Work (https://campusatwork.fr) 💜",
       "section_name": {
         "about": "À propos de moi",
         "projects": "Projets",
@@ -391,9 +391,74 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "E-commerce Product Page",
+        "startDate": "2021",
+        "description": "Frontendmentor défi de page de produit e-commerce",
+        "images": [
+          "images/portfolio/e-commerce-product-page/img-1.jpg",
+          "images/portfolio/e-commerce-product-page/img-2.jpg",
+          "images/portfolio/e-commerce-product-page/img-3.jpg",
+          "images/portfolio/e-commerce-product-page/img-4.jpg",
+          "images/portfolio/e-commerce-product-page/img-5.jpg",
+          "images/portfolio/e-commerce-product-page/img-6.jpg",
+          "images/portfolio/e-commerce-product-page/img-7.jpg",
+          "images/portfolio/e-commerce-product-page/img-8.jpg",
+          "images/portfolio/e-commerce-product-page/img-9.jpg",
+          "images/portfolio/e-commerce-product-page/img-10.jpg"
+        ],
+        "url": "https://ecommerce-product-landing-page-chou.netlify.app/",
+        "github": "https://github.com/ninjacanthi1995/ecommerce-product-page",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
     ], 
     "experience": [
+      {
+        "company": "Campus At Work",
+        "title": "Full-stack Javascript Web Développeur",
+        "years": "08.2021 - Maintenant",
+        "mainTech": [
+          "Angular NodeJS MongoDB"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Angular",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "Git",
+          "Github",
+          "Responsive Design"
+        ]
+      },
       {
         "company": "La Capsule",
         "title": "Etudiante en Développement Web et Mobile Javascript Full-stack",

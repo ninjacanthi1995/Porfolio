@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm HOANG Minh Chau. FULLSTACK JAVASCRIPT WEB DEVELOPER to become. After experiences in the civil engineering industry, I am now moving into the IT development world. Link between my initial training and my future professional: my appetite for technology and the design of new products. I'm now student at Coding Bootcamp La Capsule - Fullstack JavaScript web and mobile development. 💜",
+      "description": "👋 I'm HOANG Minh Chau. FULLSTACK JAVASCRIPT WEB DEVELOPER. After experiences in the civil engineering industry, I am now moving into the IT development world. Link between my initial training and my future professional: my appetite for technology and the design of new products. I'm now developer at Campus At Work (https://campusatwork.fr). 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -391,9 +391,74 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "E-commerce Product Page",
+        "startDate": "2021",
+        "description": "Frontendmentor e-commerce product page challenge",
+        "images": [
+          "images/portfolio/e-commerce-product-page/img-1.jpg",
+          "images/portfolio/e-commerce-product-page/img-2.jpg",
+          "images/portfolio/e-commerce-product-page/img-3.jpg",
+          "images/portfolio/e-commerce-product-page/img-4.jpg",
+          "images/portfolio/e-commerce-product-page/img-5.jpg",
+          "images/portfolio/e-commerce-product-page/img-6.jpg",
+          "images/portfolio/e-commerce-product-page/img-7.jpg",
+          "images/portfolio/e-commerce-product-page/img-8.jpg",
+          "images/portfolio/e-commerce-product-page/img-9.jpg",
+          "images/portfolio/e-commerce-product-page/img-10.jpg"
+        ],
+        "url": "https://ecommerce-product-landing-page-chou.netlify.app/",
+        "github": "https://github.com/ninjacanthi1995/ecommerce-product-page",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
     ],
     "experience": [
+      {
+        "company": "Campus At Work",
+        "title": "Full-stack Javascript Web Developer",
+        "years": "08.2021 - Now",
+        "mainTech": [
+          "Angular NodeJS MongoDB"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Angular",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "Git",
+          "Github",
+          "Responsive Design"
+        ]
+      },
       {
         "company": "La Capsule",
         "title": "Full-stack Javascript Web and Mobile Developement Student",
