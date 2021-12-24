@@ -436,6 +436,51 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "Rock, Paper, Scissors game",
+        "startDate": "2021",
+        "description": "Frontendmentor Rock, Paper, Scissors game challenge",
+        "images": [
+          "images/portfolio/rock-paper-scissors/img-1.jpg",
+          "images/portfolio/rock-paper-scissors/img-2.jpg",
+          "images/portfolio/rock-paper-scissors/img-3.jpg",
+          "images/portfolio/rock-paper-scissors/img-4.jpg",
+          "images/portfolio/rock-paper-scissors/img-5.jpg",
+          "images/portfolio/rock-paper-scissors/img-6.jpg",
+          "images/portfolio/rock-paper-scissors/img-7.jpg",
+          "images/portfolio/rock-paper-scissors/img-8.jpg",
+          "images/portfolio/rock-paper-scissors/img-9.jpg",
+          "images/portfolio/rock-paper-scissors/img-10.jpg"
+        ],
+        "url": "https://rock-paper-scissors-spock-lizard-chou.netlify.app/",
+        "github": "https://github.com/ninjacanthi1995/Rock-paper-scissors",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
     ],
     "experience": [
