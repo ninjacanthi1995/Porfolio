@@ -7,7 +7,12 @@ class Projects extends Component {
     this.state = {
       deps: {},
       detailsModalShow: false,
+      filteredProjects: []
     };
+  }
+
+  componentWillReceiveProps(nextProps){
+    this.setState({ filteredProjects: nextProps.resumeProjects })
   }
 
   render() {
@@ -18,7 +23,8 @@ class Projects extends Component {
     let detailsModalClose = () => this.setState({ detailsModalShow: false });
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.projects;
-      var projects = this.props.resumeProjects.map(function (projects) {
+      //var projects = this.props.resumeProjects.map(function (projects) {
+      var projects = this.state.filteredProjects.map(function (projects) {
         return (
           <div
             className="col-sm-12 col-md-6 col-lg-4"
@@ -47,12 +53,39 @@ class Projects extends Component {
       });
     }
 
+    let filter = (event) => {
+      let techno = event.target.value.toLowerCase();
+
+      this.setState({
+        filteredProjects: this.props.resumeProjects.filter(project => {
+          let result = false;
+          project.technologies.forEach(tech => {
+            if (tech.name.toLowerCase() === techno) {
+              result = true;
+            }
+          })
+          return result;
+        })
+      })
+    }
+
     return (
       <section id="portfolio">
         <div className="col-md-12">
           <h1 className="section-title" style={{ color: "black" }}>
             <span>{sectionName}</span>
+
+            <br/>
+
+            <select onChange={filter} defaultValue={'default'} className="filter-select">
+              <option disabled value='default'>Technologies</option>
+              <option value="NodeJS">NodeJS</option>
+              <option value="Bootstrap">Bootstrap</option>
+              <option value="Sass">Sass</option>
+              <option value="MongoDB">MongoDB</option>
+            </select>
           </h1>
+
           <div className="col-md-12 mx-auto">
             <div className="row mx-auto">{projects}</div>
           </div>
