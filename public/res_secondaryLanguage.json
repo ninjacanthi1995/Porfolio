@@ -481,6 +481,50 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "REST Countries API",
+        "startDate": "2021",
+        "description": "Frontendmentor défi de l'API REST de pays avec changement de thème de couleur",
+        "images": [
+          "images/portfolio/rest-countries-api/img-1.jpg",
+          "images/portfolio/rest-countries-api/img-2.jpg",
+          "images/portfolio/rest-countries-api/img-3.jpg",
+          "images/portfolio/rest-countries-api/img-4.jpg",
+          "images/portfolio/rest-countries-api/img-5.jpg",
+          "images/portfolio/rest-countries-api/img-6.jpg",
+          "images/portfolio/rest-countries-api/img-7.jpg",
+          "images/portfolio/rest-countries-api/img-8.jpg",
+          "images/portfolio/rest-countries-api/img-9.jpg"
+        ],
+        "url": "https://rest-country-api-chou.netlify.app",
+        "github": "https://github.com/ninjacanthi1995/rest-countries-api",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
     ], 
     "experience": [
