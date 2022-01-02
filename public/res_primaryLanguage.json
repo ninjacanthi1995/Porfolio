@@ -35,6 +35,10 @@
             "name": "Bootstrap"
           },
           {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
             "class": "devicon-nodejs-plain",
             "name": "NodeJS"
           },
@@ -79,6 +83,10 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-nodejs-plain",
@@ -131,6 +139,10 @@
             "name": "Bootstrap"
           },
           {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
             "class": "devicon-nodejs-plain",
             "name": "NodeJS"
           },
@@ -178,6 +190,10 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-nodejs-plain",
@@ -234,6 +250,10 @@
             "name": "Bootstrap"
           },
           {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
             "class": "devicon-nodejs-plain",
             "name": "NodeJS"
           },
@@ -287,6 +307,10 @@
             "name": "Bootstrap"
           },
           {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
             "class": "devicon-nodejs-plain",
             "name": "NodeJS"
           },
@@ -337,6 +361,10 @@
           },
           {
             "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-react-original",
             "name": "ReactJS"
           },
           {
@@ -380,7 +408,7 @@
           },
           {
             "class": "devicon-react-original",
-            "name": "ReactJS"
+            "name": "React"
           },
           {
             "class": "devicon-git-plain",
@@ -425,7 +453,7 @@
           },
           {
             "class": "devicon-react-original",
-            "name": "ReactJS"
+            "name": "React"
           },
           {
             "class": "devicon-git-plain",
@@ -470,7 +498,7 @@
           },
           {
             "class": "devicon-react-original",
-            "name": "ReactJS"
+            "name": "React"
           },
           {
             "class": "devicon-git-plain",
@@ -514,7 +542,37 @@
           },
           {
             "class": "devicon-react-original",
-            "name": "ReactJS"
+            "name": "React"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "NFT preview card",
+        "startDate": "2021",
+        "description": "Frontendmentor NFT preview card component challenge",
+        "images": [
+          "images/portfolio/nft-preview-card-component/img-1.jpg",
+          "images/portfolio/nft-preview-card-component/img-2.jpg",
+          "images/portfolio/nft-preview-card-component/img-3.jpg"
+        ],
+        "url": "https://nft-preview-card-chou.netlify.app/",
+        "github": "https://github.com/ninjacanthi1995/nft-preview-card-component",
+        "technologies": [
+          {
+            "class": "devicon-dart-plain",
+            "name": "Dart"
+          },
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
           },
           {
             "class": "devicon-git-plain",

@@ -81,6 +81,8 @@ class Projects extends Component {
               <option disabled value='default'>Technologies</option>
               <option value="NodeJS">NodeJS</option>
               <option value="Bootstrap">Bootstrap</option>
+              <option value="React">React</option>
+              <option value="Flutter">Flutter</option>
               <option value="Sass">Sass</option>
               <option value="MongoDB">MongoDB</option>
             </select>
