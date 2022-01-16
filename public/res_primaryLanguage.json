@@ -583,6 +583,84 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "Pricing component with toggle",
+        "startDate": "2021",
+        "description": "Frontendmentor Pricing component with toggle challenge",
+        "images": [
+          "images/portfolio/pricing-component-with-toggle/img-1.jpg",
+          "images/portfolio/pricing-component-with-toggle/img-2.jpg",
+          "images/portfolio/pricing-component-with-toggle/img-3.jpg",
+          "images/portfolio/pricing-component-with-toggle/img-3.jpg"
+        ],
+        "url": "https://pricing-component-with-toggle-chou.netlify.app",
+        "github": "https://github.com/ninjacanthi1995/pricing-component-with-toggle",
+        "technologies": [
+          {
+            "class": "devicon-dart-plain",
+            "name": "Dart"
+          },
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Campus Academy website",
+        "startDate": "2022",
+        "description": "Restructuring of the Campus Academy website. Project done within a week in collaboration with 3 others devs.",
+        "images": [
+          "images/portfolio/campus-academy/img-1.png",
+          "images/portfolio/campus-academy/img-2.png",
+          "images/portfolio/campus-academy/img-3.png",
+          "images/portfolio/campus-academy/img-4.png"
+        ],
+        "url": "https://campusacademy.fr",
+        "github": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
     ],
     "experience": [

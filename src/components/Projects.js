@@ -82,6 +82,7 @@ class Projects extends Component {
               <option value="NodeJS">NodeJS</option>
               <option value="Bootstrap">Bootstrap</option>
               <option value="React">React</option>
+              <option value="Angular">Angular</option>
               <option value="Flutter">Flutter</option>
               <option value="Sass">Sass</option>
               <option value="MongoDB">MongoDB</option>
