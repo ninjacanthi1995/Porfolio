@@ -616,6 +616,109 @@
         ]
       },
       {
+        "title": "Campus At Work admin platform",
+        "startDate": "2021",
+        "description": "Admin page allowing non-IT staffs to modify the main page campusatwork.fr and to manage its visitors.",
+        "images": [
+          "images/portfolio/caw-admin/img-1.png",
+          "images/portfolio/caw-admin/img-2.png",
+          "images/portfolio/caw-admin/img-3.png",
+          "images/portfolio/caw-admin/img-4.png",
+          "images/portfolio/caw-admin/img-5.png"
+        ],
+        "url": "https://admin.campusatwork.fr",
+        "github": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Campus At Work LMS admin platform",
+        "startDate": "2021",
+        "description": "Admin page allowing non-IT staffs to modify the LMS (learning management system) page learning.campusatwork.fr and its users.",
+        "images": [
+          "images/portfolio/caw-lms-admin/img-1.png",
+          "images/portfolio/caw-lms-admin/img-2.png",
+          "images/portfolio/caw-lms-admin/img-3.png",
+          "images/portfolio/caw-lms-admin/img-4.png"
+        ],
+        "url": "https://learning.campusatwork.fr/",
+        "github": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
         "title": "Campus Academy website",
         "startDate": "2022",
         "description": "Restructuring of the Campus Academy website. Project done within a week in collaboration with 3 others devs.",

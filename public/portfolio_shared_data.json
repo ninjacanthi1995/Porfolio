@@ -49,6 +49,11 @@
           "level": "85"
         },
         {
+          "class": "devicon-flutter-plain colored",
+          "name": "Flutter",
+          "level": "85"
+        },
+        {
           "name": "NodeJS",
           "class": "devicon-nodejs-plain",
           "level": "90"
