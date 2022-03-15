@@ -760,6 +760,45 @@
             "name": "GitHub"
           }
         ]
+      },
+      {
+        "title": "Gunstar Marketplace Clone",
+        "startDate": "2022",
+        "description": "Ceci est une solution pour le test à distance de Gameloft (clonage du page marketplace de Gunstar) (https://dapp.gunstar.io/market?sort=id_asc)",
+        "images": [
+          "images/portfolio/gunstar/img-1.png",
+          "images/portfolio/gunstar/img-2.png",
+          "images/portfolio/gunstar/img-3.png",
+          "images/portfolio/gunstar/img-4.png"
+        ],
+        "url": "https://gunstar.netlify.app",
+        "github": "https://github.com/ninjacanthi1995/gunstar",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
       }
     ], 
     "experience": [
